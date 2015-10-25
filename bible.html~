@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel = "stylesheet" type = "text/css" href = "bootstrap_v3/css/bootstrap.css">
+	<link rel = "stylesheet" type = "text/css" href = "bootstrap_v3/css/grid.css">
+</head>
+<body>
+	<div class = "container show-grid">
+		<div class = "row">
+			<div class="col-md-12">
+<table>
+	<tr>
+
+<ul class="list-group">
+				<ul class="nav nav-tabs">		
+	    <li role="presentation"><a href="#">OLDTESTAMENT</a></li>
+</ul>										
+
+	<li class="list-group-item">Genesis</li>
+	<ul>			
+	<div>
+	  <li role="presentation" class="active"><a href="#">Read</a></li>
+	  <li role="presentation"><a href="#">Info</a></li>
+	  <li role="presentation"><a href="#">Watch</a></li
+	</div>
+	</ul>											
+	 <li class="list-group-item">Exodus</li>
+	<div>
+	<ul>
+	  <li role="presentation" class="active"><a href="#">Read</a></li>
+	  <li role="presentation"><a href="#">Info</a></li>
+	  <li role="presentation"><a href="#">Watch</a></li
+	</div>
+	</ul>
+	 <li class="list-group-item">Leviticus</li>
+	<div>
+	<ul>
+	  <li role="presentation" class="active"><a href="#">Read</a></li>
+	  <li role="presentation"><a href="#">Info</a></li>
+	  <li role="presentation"><a href="#">Watch</a></li
+	</div>
+	</ul>
+	 <li class="list-group-item">Numbers</li>
+	<div>
+	<ul>	  
+	<li role="presentation" class="active"><a href="#">Read</a></li>
+	  <li role="presentation"><a href="#">Info</a></li>
+	  <li role="presentation"><a href="#">Watch</a></li
+	</div>
+	</ul>	
+	 <li class="list-group-item">Deutoronomy</li>
+	<div>
+	<ul>	  
+	<li role="presentation" class="active"><a href="#">Read</a></li>
+	  <li role="presentation"><a href="#">Info</a></li>
+	  <li role="presentation"><a href="#">Watch</a></li
+	
+	</div>
+	</ul>
+	 <li class="list-group-item">1 King</li>	
+	<ul>	  
+	<li role="presentation" class="active"><a href="#">Read</a></li>
+	  <li role="presentation"><a href="#">Info</a></li>
+	  <li role="presentation"><a href="#">Watch</a></li
+	
+	</div>
+	</ul>  <ul class="nav nav-tabs">
+	      <li role="presentation"><a href="#">NEWTESTAMENT</a></li>
+</ul>	
+	<li class="list-group-item">Matthew</li>
+	<ul>										
+	<div>
+	  <li role="presentation" class="active"><a href="#">Read</a></li>		
+	  <li role="presentation"><a href="#">Info</a></li>			
+	  <li role="presentation"><a href="#">Watch</a></li			
+	</div>										
+	</ul>
+	<li class="list-group-item">Mark</li>
+	<ul>										
+	<div>
+	  <li role="presentation" class="active"><a href="#">Read</a></li>		
+	  <li role="presentation"><a href="#">Info</a></li>			
+	  <li role="presentation"><a href="#">Watch</a></li			
+	</div>										
+	</ul>
+	<li class="list-group-item">Luke</li>
+	<ul>										
+	<div>
+	  <li role="presentation" class="active"><a href="#">Read</a></li>		
+	  <li role="presentation"><a href="#">Info</a></li>			
+	  <li role="presentation"><a href="#">Watch</a></li			
+	</div>										
+	</ul>	
+	<div class="col-md-4"></div>	
+	</div>
+	</div>
+		</tr>
+</table>
+</body>
+</html>	
